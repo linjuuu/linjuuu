@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=linjuuu&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=wave&color=magenta&height=350&section=header&text=linjuuu&fontSize=120)
 
 <!--
 **linjuuu/linjuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
