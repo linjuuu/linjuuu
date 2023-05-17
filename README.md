@@ -1,4 +1,4 @@
-<div alias = "center">
+<div align = "center">
 
 ### Hi there 👋
 
