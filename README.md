@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=linjuuu&fontSize=100)
 
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 <!--
 **linjuuu/linjuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
