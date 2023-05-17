@@ -1,3 +1,5 @@
+<div alias = "center">
+
 ### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=linjuuu&fontSize=100)
@@ -24,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
