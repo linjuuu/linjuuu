@@ -16,7 +16,7 @@
 
 ### trying
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-FF9E0F?style=for-the-badge&logo=JSP&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-FF9E0F?style=for-the-badge&logo=JSP&logoColor=white">
 
 <br/>
 <br/>
